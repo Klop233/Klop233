@@ -1,7 +1,7 @@
 ### 你好，我是Klop233，一名初二学生 👋
 
 目前正在学习 `Java` `C++` <br>
-会 `Python`，不过很久没写过了 <br>
+会 `Python`，不过很久没写过了🤔 <br>
 平时没啥时间，代码写着玩玩 <br>
 玩 MineCraft 明日方舟 Galgame <br>
 邮箱: `klop2333@outlook.com` <br>
