@@ -8,6 +8,11 @@ HTML CSS前端一个不会 <br>
 邮箱: `klop2333@outlook.com` <br>
 QQ: `3337913379`
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
