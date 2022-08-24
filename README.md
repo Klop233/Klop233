@@ -1,4 +1,12 @@
-### Hi there 👋
+### 你好，我是Klop233，一名初二学生 👋
+
+目前正在学习 `Java` `C++` <br>
+会 `Python`，不过很久没写过了 <br>
+平时没啥时间，代码写着玩玩 <br>
+邮箱: `klop2333@outlook.com` <br>
+QQ: `3337913379`
+
+
 
 <!--
 **Klop233/Klop233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
