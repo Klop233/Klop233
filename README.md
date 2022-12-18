@@ -3,7 +3,7 @@
 目前正在学习 `Java` `C++`<br>
 会 `Python`，不过很久没写过了🤔 <br>
 HTML CSS前端一个不会 <br>
-平时没啥时间，代码写着玩玩 <br>
+代码写着玩玩 <br>
 玩 明日方舟 Galgame <br>
 邮箱: `klop2333@outlook.com` <br>
 QQ: `3337913379` <br>
