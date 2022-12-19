@@ -9,7 +9,7 @@ HTML CSS前端一个不会 <br>
 QQ: `3337913379` <br>
 Telegram: `@Klop233`
 
-最近好无聊啊,没事干 <br><br>
+目前正在开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOffical">StarCraft<a> <br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
