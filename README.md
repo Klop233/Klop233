@@ -1,7 +1,11 @@
 ### 你好，我是 Klop233，一名初二学生 👋
 
 以下是我的个人简介，若有志同道合的人，可以跟我交个朋友啦。<br>
-My site: [lolicon.fit](https://www.lolicon.fit)
+个人主页: [`lolicon.fit`](https://www.lolicon.fit)
+
+邮箱: `klop2333@outlook.com` <br>
+QQ: `3337913379` <br>
+Telegram: `@Klop233`
 
 <!-- <br>
 年龄: ~~5.2坤~~ 13岁 <br>
