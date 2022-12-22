@@ -35,7 +35,7 @@ Telegram: `@Klop233` -->
 ---
   
 <center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical" width="50%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical" width="50%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=radical" width="50%"/>
 </center>
 
