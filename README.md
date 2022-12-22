@@ -18,9 +18,19 @@ Telegram: `@Klop233` -->
 
 目前正在开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOffical">StarCraft<a> <br><br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+<img src="/banner.jpg" width=100%/>
+  
+---
+  
+沈みゆく世界で、君をみつけた。
+  
+---
+  
+<center class="half">
+    <img src="[图片链接](https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=radical)" width="50%<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=radical" width="50%"/>
+</center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
   
