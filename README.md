@@ -22,7 +22,7 @@ HTML CSS前端一个不会 <br>
 QQ: `3337913379` <br>
 Telegram: `@Klop233` -->
 
-目前正在开发一个我的世界服务器项目: `<a href="https://github.com/StarCraftOffical">StarCraft<a>` <br><br>
+目前正在开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOffical">`StarCraft`<a> <br><br>
 
 ---
 
