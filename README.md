@@ -44,7 +44,7 @@ Telegram: `@Klop233` -->
 ---
 
 <p align="center"> 
-  Visitor count<br>
+  Visit count<br>
   <img src="https://profile-counter.glitch.me/Klop233/count.svg" />
 </p>
 </p>
