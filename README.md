@@ -6,8 +6,8 @@
 个人主页: [`lolicon.fit`](https://www.lolicon.fit)
 
 13岁，事初中生，`明日方舟`、`Galgame` 玩家，坐标广东广州 <br>
-会的: Python Java Kotlin
-正在学习: HTML CSS
+会的: `Python` `Java` `Kotlin` <br>
+正在学习`HTML` `CSS`, 第一个作品: [STARMC.ICU](https://starmc.icu/)
 
 **联系方式** <br>
 邮箱: `klop2333@outlook.com` <br>
