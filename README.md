@@ -25,11 +25,11 @@ Telegram: `@Klop233`
 <div align="center">沈みゆく世界で、君をみつけた。</div>
   
 ---
+
+<div align="center">
   
 | <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=tokyonight"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=tokyonight" /> |
 | ------------- | ------------- |
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Klop233&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 </div>
 
