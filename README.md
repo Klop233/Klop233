@@ -16,6 +16,15 @@
 
 ---
 
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=tokyonight"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=tokyonight" /> |
+| ------------- | ------------- |
+  
+</div>
+
+---
+
 <img src="/banner.jpg" width=100%/>
   
 ---
@@ -24,17 +33,7 @@
   
 ---
 
-<div align="center">
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=tokyonight"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=tokyonight" /> |
-| ------------- | ------------- |
-  
-</div>
-
----
-
 <p align="center"> 
   Visit count<br>
   <img src="https://profile-counter.glitch.me/Klop233/count.svg" />
-</p>
 </p>
