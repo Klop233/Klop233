@@ -1,5 +1,3 @@
-Outdated information, temporarily stepping back from my involvement due to schoolwork reasons
-
 ---
 
 ### 你好，我是 Klop233，一名初三学生 👋
@@ -8,9 +6,8 @@ Outdated information, temporarily stepping back from my involvement due to schoo
 
 以下是我的个人简介，若有志同道合的人，可以跟我交个朋友啦。<br>
 
-14岁，是初中生, 喜欢玩明日方舟, Galgame, 坐标广东广州 <br>
+14岁，是初中生, 喜欢玩Galgame, 坐标广东广州 <br>
 会 Python Java Kotlin <br>
-正在学习 HTML CSS
 
 | 联系方式     |                      |
 | ----------- | -------------------- |
