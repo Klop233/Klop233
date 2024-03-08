@@ -2,33 +2,18 @@
 
 ### 你好，我是 Klop233，一名初三学生 👋
 
+#### 关于我
+14岁，是初中生, 喜欢玩Galgame，平时不怎么写代码，
 
+#### 我的 Github 数据 
 
-以下是我的个人简介，若有志同道合的人，可以跟我交个朋友啦。<br>
-
-14岁，是初中生, 喜欢玩Galgame, 坐标广东广州 <br>
-会 Python Java Kotlin <br>
-
-| 联系方式     |                      |
-| ----------- | -------------------- |
-| QQ          | 3337913379           |
-| Telegram    | @Klop233             |
-| Email       | klop2333@outlook.com |
-
----
-
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=Klop233&count_private=true&show_icons=true&theme=tokyonight"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&layout=compact&theme=tokyonight" /> |
-| ------------- | ------------- |
+![Klop233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klop233&show_icons=true&theme=radical)
   
-</div>
 
 ---
 
 <img src="/banner.jpg" width=100%/>
   
----
   
 <div align="center">沈みゆく世界で、君をみつけた。</div>
   
