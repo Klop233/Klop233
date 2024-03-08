@@ -5,7 +5,7 @@
 
 * 14岁, 是初中生, 喜欢玩Galgame, 接近中考了, 平时没什么时间写代码
 * 目前活跃于 [LuminolMC](https://github.com/LuminolMC)
-* 如果你想和我交朋友, 可以先通过我主页的联系方式联系我
+* 如果你想和我交朋友, 可以先通过Telegram [@Klop233](https://t.me/Klop233) 来联系我
 
 #### 我的 Github 数据 
 
