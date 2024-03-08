@@ -1,9 +1,10 @@
----
-
 ### 你好，我是 Klop233，一名初三学生 👋
 
+
 #### 关于我
-14岁，是初中生, 喜欢玩Galgame，平时不怎么写代码，
+
+* 14岁，是初中生, 喜欢玩Galgame，接近中考了，平时没什么时间写代码
+* 目前活跃于  [LuminolMC](https://github.com/LuminolMC)
 
 #### 我的 Github 数据 
 
