@@ -1,27 +1,23 @@
-### 你好，我是 Klop233，一名初三学生 👋
+### Hi there! I am Klop233. Nice to meet you
+
+<img src="/Noir.jpg" alt="Logo" align="right" width="165">
+
+#### About
+
+* Aged 14. A junior high school student, like playing Minecraft and Galgame
+* I know using `Java` `Kotlin` `Python`
+* Active in [LuminolMC](https://github.com/LuminolMC)
+* You can reach me by Telegram [@Klop233](https://t.me/Klop233), but i might not I may not check information frequently, you can also email me `klop2333@outlook.com`
+* My Middle School Entrance Examination is incoming on June 30
 
 
-#### 关于我
 
-* 14岁, 是初中生, 喜欢玩Galgame, 接近中考了, 平时没什么时间写代码
-* 目前活跃于 [LuminolMC](https://github.com/LuminolMC)
-* 如果你想和我交朋友, 可以先通过Telegram [@Klop233](https://t.me/Klop233) 来联系我
+#### Stats
 
-#### 我的 Github 数据 
-
-![Klop233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klop233&show_icons=true&theme=radical)
-  
+<img src="https://github-readme-stats.vercel.app/api?username=Klop233&show_icons=true&theme=radical" alt="Logo" align="left" width="365">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klop233&theme=radical" alt="Logo" align="reight" width="365">
 
 ---
-
-<img src="/banner.jpg" width=100%/>
-  
-  
-<div align="center">沈みゆく世界で、君をみつけた。</div>
-  
----
-
 <p align="center"> 
-  Visit count<br>
   <img src="https://profile-counter.glitch.me/Klop233/count.svg" />
 </p>
