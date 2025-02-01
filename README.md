@@ -4,7 +4,7 @@
 
 #### About
 
-* Aged 15. A senior high school student, like playing Minecraft and Galgame
+* A senior high school student, like playing Minecraft
 * I know using `Java` `Kotlin` `Python`
 * Active in [LuminolMC](https://github.com/LuminolMC)
 * You can reach me by Telegram [@Klop233](https://t.me/Klop233), but i might not I may not check messages frequently, you can also email me `klop2333@outlook.com`
