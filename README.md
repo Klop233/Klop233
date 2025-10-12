@@ -1,13 +1,16 @@
 ### Hi there! I am Klop233. Nice to meet you
 
 <img src="/Noir.jpg" alt="Logo" align="right" width="165">
+I'm a senior high school student with a passion for technology and creation. <br>
+My primary interests lie in software development and the endless possibilities of sandbox games like Minecraft.
 
-#### About
+#### 🛠️ Technologies & Skills
+Familiar with: `Java` `Kotlin` `Python`  <br>
+Currently learning & practicing: `Frontend development`
 
-* A senior high school student, like playing Minecraft
-* I know using `Java` `Kotlin` `Python`
-* Active in [LuminolMC](https://github.com/LuminolMC)
-* You can reach me by Telegram [@Klop233](https://t.me/Klop233), but i might not I may not check messages frequently, you can also email me `klop2333@outlook.com`
+#### 📫 How to Reach Me
+Email: klop2333@outlook.com <br>
+Telegram: [@Hoshiori233](https://t.me/Hoshiori233)
 
 
 
