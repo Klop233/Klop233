@@ -2,9 +2,7 @@
 
 <img src="/Noir.jpg" alt="Logo" align="right" width="165">
 
-> Currently taking a leave of absence from school for MDD
-
-I'm a senior high school student with a passion for technology and creation. <br>
+I'm a student with a passion for technology and creation. <br>
 My primary interests lie in software development and the endless possibilities of sandbox games like Minecraft.
 
 #### 🛠️ Technologies & Skills
